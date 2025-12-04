@@ -1,0 +1,8 @@
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Common IDE/Editor files (e.g., VS Code)
+.vscode/
